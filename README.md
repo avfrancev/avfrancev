@@ -21,7 +21,7 @@ Telegram: <a href="https://t.me/avfrancev" target="_blank" rel="noreferrer">avfr
 <tr>
 <td>
 <a href="https://github.com/avfrancev/pulseviewer" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/291a7af4-b84f-4ff4-bcd5-e2dd4ef72b72" alt="pulseviewer" />
+  <img src="https://github.com/user-attachments/assets/ea90f348-5ed8-4099-bff7-77badf1e2d07" alt="pulseviewer" />
 </a>
 <label>Pulseviewer</label>
 </td>
