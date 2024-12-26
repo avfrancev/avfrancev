@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Francev</h1>
 <h3 align="center">A full-stack developer</h3>
 
-An experienced web developer with over 5 years of JavaScript experience. I specialize in developing web applications based on Views and Node.js . I have experience working with various frameworks and libraries. He has practical experience in automating business processes in various fields including real estate, marketing and others. Development of interactive, adaptive and productive data visualizations. A little experience in programming embedded systems in the field of home automation.
+An experienced web developer with over 5 years of JavaScript experience. I specialize in developing web applications based on Vue and Node.js . I have experience working with various frameworks and libraries. He has practical experience in automating business processes in various fields including real estate, marketing and others. Development of interactive, adaptive and productive data visualizations. A little experience in programming embedded systems in the field of home automation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
